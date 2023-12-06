@@ -15,5 +15,7 @@
 - URL para clone: http://www.facebook.com 
 
 Resultados
-![Alt text](C:.Resultado.png)
+
+<img src="C:\Users\Gilcimar\Pictures\Resultado.png">
+
 
